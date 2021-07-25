@@ -16,7 +16,7 @@ export const NavigationBar = () => {
   return (
     <Styles>
       <Navbar expand="lg" color="light" bg="dark" variant="dark" sticky="top">
-        <Nav.Link href="/dilab/#/">
+        <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/">
           <Image src={logo} rounded height="50px" width="50px" alt="logo" />
         </Nav.Link>
 
