@@ -24,19 +24,19 @@ export const NavigationBar = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
             <Nav.Item>
-              <Nav.Link href="/dilab/#/services">Services</Nav.Link>
+              <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/services">Services</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/dilab/#/about">About</Nav.Link>
+              <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/about">About</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/dilab/#/contact">Contact</Nav.Link>
+              <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/contact">Contact</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/dilab/#/register">Register</Nav.Link>
+              <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/register">Register</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/dilab/#/login">Login</Nav.Link>
+              <Nav.Link href="/visual-design-and-web-project-armc244s7_2021-yonitacarter/#/login">Login</Nav.Link>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
