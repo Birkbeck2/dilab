@@ -16,7 +16,7 @@ class LoginEmail extends Component {
 
   fetchUsers = async () => {
     // const res = await fetch("http://localhost:5000/users");
-    const res = await fetch("https://my-json-server.typicode.com/harchharchi/blab2/users"); 
+    const res = await fetch("https://my-json-server.typicode.com/Birkbeck2/visual-design-and-web-project-armc244s7_2021-yonitacarter/users"); 
     const data = await res.json();
 
     return data;
@@ -30,7 +30,7 @@ class LoginEmail extends Component {
 
   fetchUsers = async () => {
     // const res = await fetch("http://localhost:5000/users");
-    const res = await fetch("https://my-json-server.typicode.com/harchharchi/blab2/users");
+    const res = await fetch("https://my-json-server.typicode.com/Birkbeck2/visual-design-and-web-project-armc244s7_2021-yonitacarter/users");
     const data = await res.json();
 
     return data;
